@@ -12,6 +12,10 @@ An exciting new play about coffee.
 
 ## 3. Name three problems Git & GitHub solve?
 
+# Ichange the file
+
+3 pramlems
+
 When people want to show off code to each other they can put it on GitHub
 
 ## 4. What happens when you `fork` a repository?
