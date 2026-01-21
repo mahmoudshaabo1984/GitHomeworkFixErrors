@@ -4,7 +4,7 @@
 
 # I change the file
 
-6
+4
 
 ## 2. What is JavaScript?
 
@@ -12,9 +12,9 @@ An exciting new play about coffee.
 
 ## 3. Name three problems Git & GitHub solve?
 
-# Ichange the file
+# I change the file
 
-3 pramlems
+3 problems
 
 When people want to show off code to each other they can put it on GitHub
 
@@ -24,7 +24,7 @@ You delete it
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+It sends it to a friend
 
 ## 6. What is a Pull Request?
 
